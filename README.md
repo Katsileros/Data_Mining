@@ -1,2 +1,2 @@
-Data_Mining
+CNN with predefined Gabor filters
 ===========
